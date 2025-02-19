@@ -1,0 +1,9 @@
+abc@abc.com
+@abc.com
+abc.def@abc-def.com
+abc_def@abcdef.com
+abc@abc
+abcdef@abc-def.com
+abc@abc.defgh
+abc@.com
+abc-def@abcdef.com
